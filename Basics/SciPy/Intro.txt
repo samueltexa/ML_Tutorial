@@ -1,0 +1,13 @@
+SciPy(Scientific Python)
+
+SciPy is a scientific computation library that uses NumPy underneath.
+
+It provides more utility functions for optimization, stats and signal processing.
+
+Like NumPy, SciPy is open source so we can use it freely.
+
+Why Use SciPy
+
+SciPy has optimized and added functions that are frequently used in NumPy and Data Science.
+
+
